@@ -73,7 +73,7 @@ After starting Kali Linux, I checked the network connection and IP address. I al
 
 
 <!-- Add your actual terminal screenshot here -->
-![Network Configuration](5-Kali_Network-Setting.png)
+![Network Configuration](5-Kali-Network-Setting.png)
 
 ### Step 7: Create a Snapshot
 
