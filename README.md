@@ -65,7 +65,7 @@ I checked the virtual machine settings before starting Kali Linux. I assigned me
 The settings used on my computer should be documented with screenshots.
 
 <!-- Add your VM settings screenshot here -->
-![Virtual Machine Settings](4-VM-Network-Adapter-Configuration.png)
+![Virtual Machine Settings](4-VM-network-adapter-Configuration.png)
 
 ### Step 6: Configure the Network
 
