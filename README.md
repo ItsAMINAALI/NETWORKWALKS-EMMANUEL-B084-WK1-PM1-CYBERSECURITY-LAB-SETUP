@@ -56,7 +56,7 @@ I opened VirtualBox and went to the Network settings. I created a NAT Network to
 Next, I downloaded the Kali Linux virtual machine package from the official website. I extracted the files when required and opened the virtual machine in VirtualBox.
 
 <!-- Add your Kali Linux download or import screenshot here -->
-![Kali Linux Setup](3-Kali-Linux.png)
+![Kali Linux Setup](3-Kali_Linux.png)
 
 ### Step 5: Configure the Virtual Machine
 
@@ -73,7 +73,7 @@ After starting Kali Linux, I checked the network connection and IP address. I al
 
 
 <!-- Add your actual terminal screenshot here -->
-![Network Configuration](5-Kali-Network-Setting.png)
+![Network Configuration](5-Kali_Network-Setting.png)
 
 ### Step 7: Create a Snapshot
 
